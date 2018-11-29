@@ -7,3 +7,11 @@
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  
+# Meta-skill
+- skill: Meta-skill
+  description: Added information about skills I possess to a YAML file.
+  
+# YAML
+- skill: YAML
+  description: Edited YAML without breaking anything
